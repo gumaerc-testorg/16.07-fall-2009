@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Final exam on dynamics and Newtonian mechanics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-07-dynamics-fall-2009/def22f2bbc535021be068d0169b16643_MIT16_07F09_final07.pdf
+file: /media/courses/16-07-dynamics-fall-2009/def22f2bbc535021be068d0169b16643_MIT16_07F09_final07.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: Final Exam
 uid: def22f2b-bc53-5021-be06-8d0169b16643
