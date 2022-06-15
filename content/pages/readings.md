@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the main reference book for the
+  course and additional resources.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

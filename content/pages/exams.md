@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides exams from previous semesters for review.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ FILES
 2004 final exam
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_final04))
+({{% resource_link 9b61e253-0e1d-f756-30a8-742564fe76ea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ FILES
 2005 final exam
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_final05))
+({{% resource_link 64de70c0-d1fd-e388-c09e-cc3780c31f4d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ FILES
 2007 final exam
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_final07))
+({{% resource_link def22f2b-bc53-5021-be06-8d0169b16643 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
