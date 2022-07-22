@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains problem sets from the Fall 2007 course, and laboratory
+  assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: c3dc16c0-f81e-c127-cacf-b8aa30fa4f1b
 ---
@@ -27,7 +32,7 @@ FILES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_hw01))
+({{% resource_link 9751cc55-3bcb-7e17-f4c3-fa0263cfb352 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +41,7 @@ FILES
 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_hw02))
+({{% resource_link 35c81ae5-2cb1-ba9a-d2e8-cb5426fbb490 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +50,7 @@ FILES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_hw03))
+({{% resource_link 45749ebf-ecf8-a5c7-1355-5efa03bc3364 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ FILES
 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_hw04))
+({{% resource_link 967ad38e-5289-786e-1f78-88aa6eaf8a0f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +68,7 @@ FILES
 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_hw05))
+({{% resource_link 49f0de10-0a69-6d45-ece4-1370785b093d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +77,7 @@ FILES
 6
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_hw06))
+({{% resource_link 0a676960-bd9a-848e-44b2-17df6b53e3f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +86,7 @@ FILES
 7
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_hw07))
+({{% resource_link 4a7f388f-283b-8a39-578a-36ad9e187bf2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +95,7 @@ FILES
 8
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_hw08))
+({{% resource_link d9077fa0-22f1-acf0-b1aa-7b177eadb7a9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +104,7 @@ FILES
 9
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_hw09))
+({{% resource_link e6fdad42-43ae-5820-45a0-1e99e5ca39e1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +113,7 @@ FILES
 10
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_hw10))
+({{% resource_link 738c8590-d73a-5914-8d15-dea4c8407cb4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +122,7 @@ FILES
 11
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_hw11))
+({{% resource_link e3ffc42a-4b16-fbf5-685d-b88869f80621 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +131,7 @@ FILES
 12
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_hw12))
+({{% resource_link 32082562-9036-5de7-9977-02bb2ce366cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +159,7 @@ FILES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_lab1))
+({{% resource_link ceb788d2-ba28-0dfd-34f8-90510c93b947 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +168,7 @@ FILES
 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_07f09_lab2))
+({{% resource_link 7c859753-5773-b8b1-bd69-f97b2006ddba "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
